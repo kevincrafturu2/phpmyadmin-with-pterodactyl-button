@@ -1,5 +1,3 @@
-php /var/www/pterodactyl/artisan down
-
 echo "Do you already have Phpmyadmin installed? y/n "
 read answer
 
